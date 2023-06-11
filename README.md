@@ -1,6 +1,6 @@
 <h1 align="center">Todo App</h1>
 <p align="center">
-  <img src="todo-app.png" alt="Todo App Screenshot">
+  <img src="" alt="Todo App Screenshot">
 </p>
 <p align="center">This is a simple Todo app built using html, css, JavaScript and Node.js.</p>
 <h2>Features</h2>
@@ -54,27 +54,3 @@ node app.js
 <h2>Contact</h2>
 <p>For any questions or inquiries, please contact <a href="mailto:fiyinfoluwsamuel580@gmail.com">fiyinfoluwsamuel580@gmail.com</a>.</p>
 <p align="center">Happy task management!</p>
-<style>
-  h1 {
-    color: #333;
-  }
-
-  h2 {
-    color: #555;
-  }
-
-  p {
-    color: #777;
-  }
-
-  ul, ol {
-    color: #777;
-    margin-bottom: 20px;
-  }
-
-  img {
-    max-width: 500px;
-    margin: 20px auto;
-    display: block;
-  }
-</style>
