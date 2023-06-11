@@ -1,6 +1,6 @@
 <h1 align="center">Todo App</h1>
 <p align="center">
-  <img src="" alt="Todo App Screenshot">
+  <img src="assets/pages/img/todo-app.png" alt="Todo App Screenshot">
 </p>
 <p align="center">This is a simple Todo app built using html, css, JavaScript and Node.js.</p>
 <h2>Features</h2>
