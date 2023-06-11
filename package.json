@@ -9,7 +9,7 @@
   "keywords": [
     "Todo"
   ],
-  "author": "Olatunji Hammed",
+  "author": "Samuel Adekunle",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2"
